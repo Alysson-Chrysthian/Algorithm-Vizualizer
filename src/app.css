@@ -1,0 +1,11 @@
+form {
+    display: flex;
+    gap: 16px;
+}
+
+form * {
+    font-size: 1.2rem;
+}
+
+form select {padding: 8px;}
+form button {padding: 8px;}
